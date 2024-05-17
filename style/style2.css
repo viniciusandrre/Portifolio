@@ -1,0 +1,17 @@
+.apresentacao_sobremim {
+    padding:5% 10% 10% 0%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.apresentacao_sobremim__texto {
+    width:550px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    gap:20px;
+    padding:0% 6% 0% 6%;
+    font-family:"Krona One", sans-serif;
+    font-size:1rem;
+}
